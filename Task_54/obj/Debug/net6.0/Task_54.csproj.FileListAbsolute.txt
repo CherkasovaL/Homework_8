@@ -1,0 +1,15 @@
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\bin\Debug\net6.0\Task_54.exe
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\bin\Debug\net6.0\Task_54.deps.json
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\bin\Debug\net6.0\Task_54.runtimeconfig.json
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\bin\Debug\net6.0\Task_54.dll
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\bin\Debug\net6.0\Task_54.pdb
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\obj\Debug\net6.0\Task_54.csproj.AssemblyReference.cache
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\obj\Debug\net6.0\Task_54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfoInputs.cache
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfo.cs
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\obj\Debug\net6.0\Task_54.csproj.CoreCompileInputs.cache
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\obj\Debug\net6.0\Task_54.dll
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\obj\Debug\net6.0\refint\Task_54.dll
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\obj\Debug\net6.0\Task_54.pdb
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\obj\Debug\net6.0\Task_54.genruntimeconfig.cache
+C:\Users\avino\OneDrive\Рабочий стол\19.09.22\Homework\Homework_8\Homework_8\Task_54\obj\Debug\net6.0\ref\Task_54.dll
